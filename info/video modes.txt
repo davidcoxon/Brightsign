@@ -1,0 +1,42 @@
+
+' VIDEO MODES on HD120, HD220, and HD1020 players
+' -----------------------------------------------
+
+'    Component requires an adapter: http://support.brightsign.biz/entries/22929977-Can-I-use-component-and-composite-video-with-BrightSign-players-
+'    via HDMI / Component:
+'    ---------------------
+'    ntsc-component
+'    pal-component 
+'    ntsc-m 
+'    ntsc-m-jpn 
+'    pal-i 
+'    pal-bg 
+'    pal-n 
+'    pal-nc 
+'    pal-m 
+'    720x576x50p
+'    720x480x59.94p
+'    720x480x60p
+'    1280x720x50p
+'    1280x720x59.94p
+'    1280x720x60p
+'    1920x1080x50i
+'    1920x1080x59.94i
+'    1920x1080x60i
+'    1920x1080x24p   (not backwards compatible)
+'    1920x1080x29.97p
+'    1920x1080x30p   (not backwards compatible)
+'    1920x1080x50p
+'    1920x1080x59.94p
+'    1920x1080x60p
+
+'    via HDMI / VGA:
+'    ---------------
+'    640x480x60p 
+'    800x600x60p 
+'    800x600x75p 
+'    1024x768x60p 
+'    1024x768x75p 
+'    1280x768x60p 
+'    1280x800x60p 
+'    1360x768x60p 
